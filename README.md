@@ -1,2 +1,3 @@
 # billsakkas.github.io
-Spectr Site
+
+This repo is only for my personal portfolio site.
